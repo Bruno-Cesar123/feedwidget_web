@@ -14,7 +14,7 @@
 
 ## Demonstração
 
-<img width="800px" alt="home" src="./.github/application.PNG">
+<img width="800px" alt="home" src="./.github/application.png">
 
 ## ✨ Tecnologias
 
